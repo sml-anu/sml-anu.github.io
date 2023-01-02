@@ -1,4 +1,6 @@
-# COMP8600/4670 Statistical Machine Learning at the Australian National University
+## COMP8600/4670 Statistical Machine Learning 
+
+### at the Australian National University
 
 https://sml-anu.github.io
 
