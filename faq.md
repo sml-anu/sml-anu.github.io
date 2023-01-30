@@ -10,7 +10,7 @@
  
 4. **Q:** What is the difference between SML (COMP4670/8600) and IML (COMP3670/6670)? Which one should I take?  **A:** IML is a pre-requisite of SML. IML uses the "[MML](https://mml-book.github.io/)" book whereas SML uses the "[PRML](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/)" book. Both courses cover ~ 50%+ of the chapters. Have a look at the books to get a feel of the level of the class.  
  
-5. **Q:** Why is SML (COMP4670/8600) NOT a pre-requisite for AML (COMP4680)  **A:**
+5. **Q:** Why is SML (COMP4670/8600) NOT a pre-requisite for AML (COMP4680)  **A:** SML is a broad-but-thorough course that aims to cover most fundational topics in machine learning, whereas AML specialises in one or more sub-topics in machine learning. In recent years AML has covered covex optimisation, optimisation in ML, and other topics. 
 
 
 ### Studying
@@ -20,5 +20,5 @@
 
 ### Other
 
-8. **Q:** What if I have a question not answered on this page? **A:** Please file a github issue and we will address it or update this page. https://github.com/sml-anu/sml-anu.github.io/issues
+8. **Q:** What if I have a question not answered on this page? **A:** Please file a github issue and we will address it or update this page. [https://github.com/sml-anu/sml-anu.github.io/issues](https://github.com/sml-anu/sml-anu.github.io/issues)
 9. **Q:** What if I don't like the answer of a question, or have a better answer? **A:** Please file a github issue (see prev item) or a pull request. Thank you for your contribution. 
