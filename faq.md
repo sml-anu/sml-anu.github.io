@@ -4,7 +4,7 @@
 ### Enrolling 
 
 1. **Q:** Can you give a permission code to enroll? **A:** We (instructors or course staff) cannot issue permission codes, you will need to fill in the online application at the college website, non-obvious cases will come to us. 
-[https://cs.anu.edu.au/current-students/policies-and-resources/enrolling-cecs-courses](https://cecc.anu.edu.au/current-students/policies-and-resources/enrolling-cecs-courses)
+[https://cecc.anu.edu.au/current-students/policies-and-resources/enrolling-cecs-courses](https://cecc.anu.edu.au/current-students/policies-and-resources/enrolling-cecs-courses)
 
 2. **Q** I don't satisfy the ANU pre-requisite requirements but I would still like to enroll (and I have evidence showing that I can handle this course).  **A:** See response to item 1. You will need fill in the above form attaching the evidence. Such as: academic transcript, syllabus of related courses from another university, narratives about related programming or math experience. 
  
