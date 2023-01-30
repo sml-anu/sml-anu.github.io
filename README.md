@@ -11,11 +11,11 @@ https://sml-anu.github.io
 
 ## Current text book and references: 
 
-Christopher M. Bishop, **Pattern Recognition and Machine Learning**, 2006, https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/
+(PRML) Christopher M. Bishop, **Pattern Recognition and Machine Learning**, 2006, https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/ 
 
 We also recommend the following books, all of which are freely available online:
 
-* Deisenroth, Faisal, and Ong, Mathematics for Machine Learning. Cambridge University Press.
-* Moritz Hardt and Benjamin Recht, Patterns, Predictions and Actions: A Story about Machine Learning
+* (MML) Deisenroth, Faisal, and Ong, Mathematics for Machine Learning. Cambridge University Press. 
+* (MLStory) Moritz Hardt and Benjamin Recht, Patterns, Predictions and Actions: A Story about Machine Learning
 * MacKay, Information Theory, Inference, and Learning Algorithms, Cambridge University Press
-* Murphy, Probabilistic Machine Learning: An Introduction, MIT Press, 2021
+* (PML) Murphy, Probabilistic Machine Learning: An Introduction, MIT Press, 2021
