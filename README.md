@@ -9,8 +9,8 @@ https://sml-anu.github.io
 * [2021 edition](https://machlearn.gitlab.io/sml2021/)
 
 
-## [FAQ](faq)
-A list of frequently asked questions is [here](faq). 
+## [FAQ](https://sml-anu.github.io/faq)
+A list of frequently asked questions is [here](https://sml-anu.github.io/faq). 
 
 ## Current text book and references: 
 
