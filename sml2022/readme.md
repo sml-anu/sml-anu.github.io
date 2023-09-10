@@ -1,3 +1,4 @@
+<!--
   ---
 title: "COMP4670/8600 Statistical Machine Learning 2022"
 description: "a broad but thorough intermediate level course of statistical machine learning, emphasising the mathematical, statistical, and computational aspects"
@@ -10,7 +11,7 @@ tags:
   - "cm"
 ---
 
-<!--more-->
+more-->
 <a name="top"></a>
 
 <nav>
@@ -55,11 +56,11 @@ width=1000px height=500px>>
 
 |       |    |    |
 | ----------- | ----------- |  ----------- |
-|  ![alex](/img/people/alex-s-100.jpg) Alexander Soen <br />  | ![chamin](/img/sml-tutors/chamin_100.jpg) Chamin Hewa Koneputugodage       | ![shidi](/img/sml-tutors/shidi_100.png) Shidi Li  |
-| ![tianyu](/img/sml-tutors/tianyu_100.jpg) Tianyu Wang        | ![josh](/img/people/josh_100.jpg) Josh Nguyen | ![minchao](/img/sml-tutors/minchao_100.png) Minchao Wu  |
-| ![katya](/img/sml-tutors/katya_100.jpg) Ekaterina (Katya) Nikonova | ![ruiqi](/img/sml-tutors/ruiqi_100.jpg) Ruiqi Li | ![haiqing](/img/sml-tutors/haiqing_100.jpg) Haiqing Zhu |
-| ![belona](/img/sml-tutors/belona_100.jpg) Belona Sonna  | ![dillon](/img/sml-tutors/dillon_100.jpg) Dillon Chen | ![rong](/img/sml-tutors/rong_100.jpg) Rong Wang |
-| ![Barclay](/img/sml-tutors/barclay_100.jpg) Barclay Zhang  | ![evan](/img/sml-tutors/evan_100.jpg) Evan Markou | ![zhiyuan](/img/sml-tutors/zhiyuan_100.jpg) Zhiyuan Wu |
+|  ![alex](https://cmlab.dev/img/people/alex-s-100.jpg) Alexander Soen <br />  | ![chamin](https://cmlab.dev/img/sml-tutors/chamin_100.jpg) Chamin Hewa Koneputugodage       | ![shidi](https://cmlab.dev/img/sml-tutors/shidi_100.png) Shidi Li  |
+| ![tianyu](https://cmlab.dev/img/sml-tutors/tianyu_100.jpg) Tianyu Wang        | ![josh](https://cmlab.dev/img/people/josh_100.jpg) Josh Nguyen | ![minchao](https://cmlab.dev/img/sml-tutors/minchao_100.png) Minchao Wu  |
+| ![katya](https://cmlab.dev/img/sml-tutors/katya_100.jpg) Ekaterina (Katya) Nikonova | ![ruiqi](https://cmlab.dev/img/sml-tutors/ruiqi_100.jpg) Ruiqi Li | ![haiqing](https://cmlab.dev/img/sml-tutors/haiqing_100.jpg) Haiqing Zhu |
+| ![belona](https://cmlab.dev/img/sml-tutors/belona_100.jpg) Belona Sonna  | ![dillon](https://cmlab.dev/img/sml-tutors/dillon_100.jpg) Dillon Chen | ![rong](https://cmlab.dev/img/sml-tutors/rong_100.jpg) Rong Wang |
+| ![Barclay](https://cmlab.dev/img/sml-tutors/barclay_100.jpg) Barclay Zhang  | ![evan](https://cmlab.dev/img/sml-tutors/evan_100.jpg) Evan Markou | ![zhiyuan](https://cmlab.dev/img/sml-tutors/zhiyuan_100.jpg) Zhiyuan Wu |
 
 
 <a name="book"></a>
