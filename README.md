@@ -6,7 +6,7 @@ https://sml-anu.github.io
 
 Course info and key logistics
 * [2023 edition](https://sites.google.com/view/comp-4670-8600/home)
-* [2022 edition](https://cmlab.dev/sml2022/)
+* [2022 edition](https://cmlab.dev/sml2022/), (local [mirror](https://sml-anu.github.io/sml2022) )
 * [2021 edition](https://machlearn.gitlab.io/sml2021/)
 
 
